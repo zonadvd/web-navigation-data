@@ -1,6 +1,6 @@
 {
   "url": "https://www.elcorteingles.es/peliculas-blu-ray/cine/?sorting=newInAsc",
-  "generatedAt": "2025-10-16T08:05:29.144Z",
+  "generatedAt": "2025-10-16T08:40:13.319Z",
   "pages": 2,
   "count": 12,
   "items": [
@@ -11,6 +11,14 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025980612367-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A56788185-predator-coleccion-4-peliculas-4k-ultra-hd--blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8421394803459"
+    },
+    {
+      "title": "Frontera(s) (Blu-Ray)",
+      "price": 21.95,
+      "priceText": "21,95 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025980713660-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57095805-fronteras-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8436597564120"
     },
     {
       "title": "Diamanti (Blu-Ray)",
@@ -43,14 +51,6 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8436597564007"
-    },
-    {
-      "title": "Frontera(s) (Blu-Ray)",
-      "price": 21.95,
-      "priceText": "21,95 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025980713660-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57095805-fronteras-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8436597564120"
     },
     {
       "title": "José Luis Garci (1994-2019) (Blu-Ray  + DVD + Libro)",
