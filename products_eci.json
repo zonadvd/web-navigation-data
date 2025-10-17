@@ -1,6 +1,6 @@
 {
   "url": "https://www.elcorteingles.es/peliculas-blu-ray/cine/?sorting=newInAsc",
-  "generatedAt": "2025-10-17T06:42:06.376Z",
+  "generatedAt": "2025-10-17T07:06:52.698Z",
   "pages": 2,
   "count": 12,
   "items": [
@@ -21,20 +21,20 @@
       "ean": "8436597564120"
     },
     {
-      "title": "El guerrero de la venganza (Blu-Ray)",
-      "price": 18.95,
-      "priceText": "18,95 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8436597564007"
-    },
-    {
       "title": "Diamanti (Blu-Ray)",
       "price": 18.95,
       "priceText": "18,95 €",
       "image": "https://dam.elcorteingles.es/producto/www-001025981013532-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57095790-diamanti-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8436597564069"
+    },
+    {
+      "title": "El guerrero de la venganza (Blu-Ray)",
+      "price": 18.95,
+      "priceText": "18,95 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8436597564007"
     },
     {
       "title": "Un \"like\" de Bob Trevino (Blu-Ray)",
