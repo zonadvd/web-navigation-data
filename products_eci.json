@@ -1,6 +1,6 @@
 {
   "url": "https://www.elcorteingles.es/peliculas-blu-ray/cine/?sorting=newInAsc",
-  "generatedAt": "2025-10-23T05:36:56.998Z",
+  "generatedAt": "2025-10-23T06:06:20.722Z",
   "pages": 2,
   "count": 12,
   "items": [
@@ -61,14 +61,6 @@
       "ean": "8436597564113"
     },
     {
-      "title": "José Luis Garci (1994-2019) (Blu-Ray  + DVD + Libro)",
-      "price": 179.99,
-      "priceText": "179,99 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025981707224-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57035663-jose-luis-garci-1994-2019-blu-ray--dvd--libro/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8421394419551"
-    },
-    {
       "title": "Agárralo como puedas (2025) (Blu-Ray)",
       "price": 21.99,
       "priceText": "21,99 €",
@@ -83,6 +75,14 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025980713652-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57035662-kryptic-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8421394419582"
+    },
+    {
+      "title": "José Luis Garci (1994-2019) (Blu-Ray  + DVD + Libro)",
+      "price": 179.99,
+      "priceText": "179,99 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025981707224-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57035663-jose-luis-garci-1994-2019-blu-ray--dvd--libro/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8421394419551"
     },
     {
       "title": "Agárralo como puedas (2025) (4K Ultra HD + Blu-Ray)",
