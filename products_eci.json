@@ -1,6 +1,6 @@
 {
   "url": "https://www.elcorteingles.es/peliculas-blu-ray/cine/?sorting=newInAsc",
-  "generatedAt": "2025-10-24T05:03:44.648Z",
+  "generatedAt": "2025-10-24T05:35:41.520Z",
   "pages": 2,
   "count": 12,
   "items": [
@@ -29,20 +29,20 @@
       "ean": "8436597564120"
     },
     {
-      "title": "Diamanti (Blu-Ray)",
-      "price": 18.95,
-      "priceText": "18,95 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025981013532-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57095790-diamanti-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8436597564069"
-    },
-    {
       "title": "El guerrero de la venganza (Blu-Ray)",
       "price": 18.95,
       "priceText": "18,95 €",
       "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8436597564007"
+    },
+    {
+      "title": "Diamanti (Blu-Ray)",
+      "price": 18.95,
+      "priceText": "18,95 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025981013532-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57095790-diamanti-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8436597564069"
     },
     {
       "title": "Un \"like\" de Bob Trevino (Blu-Ray)",
@@ -59,14 +59,6 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025980810920-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57095801-seis-dias-caza-al-asesino-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8436597564113"
-    },
-    {
-      "title": "Agárralo como puedas (2025) (Blu-Ray)",
-      "price": 21.99,
-      "priceText": "21,99 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025941052455-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57035673-agarralo-como-puedas-2025-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8421394002760"
     },
     {
       "title": "Kryptic (Blu-Ray)",
@@ -91,6 +83,14 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025981013524-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57035665-agarralo-como-puedas-2025-4k-ultra-hd--blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8421394102262"
+    },
+    {
+      "title": "Agárralo como puedas (2025) (Blu-Ray)",
+      "price": 21.99,
+      "priceText": "21,99 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025941052455-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57035673-agarralo-como-puedas-2025-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8421394002760"
     },
     {
       "title": "Los diez mandamientos (Edición Metálica) (4K Ultra HD + Blu-Ray)",
