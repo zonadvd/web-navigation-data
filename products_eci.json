@@ -1,6 +1,6 @@
 {
   "url": "https://www.elcorteingles.es/peliculas-blu-ray/cine/?sorting=newInAsc",
-  "generatedAt": "2025-10-24T05:35:41.520Z",
+  "generatedAt": "2025-10-24T06:07:33.282Z",
   "pages": 2,
   "count": 12,
   "items": [
@@ -29,14 +29,6 @@
       "ean": "8436597564120"
     },
     {
-      "title": "El guerrero de la venganza (Blu-Ray)",
-      "price": 18.95,
-      "priceText": "18,95 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8436597564007"
-    },
-    {
       "title": "Diamanti (Blu-Ray)",
       "price": 18.95,
       "priceText": "18,95 €",
@@ -59,6 +51,14 @@
       "image": "https://dam.elcorteingles.es/producto/www-001025980810920-00.jpg?impolicy=Resize&width=640&height=640",
       "url": "https://www.elcorteingles.es/cine/A57095801-seis-dias-caza-al-asesino-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
       "ean": "8436597564113"
+    },
+    {
+      "title": "El guerrero de la venganza (Blu-Ray)",
+      "price": 18.95,
+      "priceText": "18,95 €",
+      "image": "https://dam.elcorteingles.es/producto/www-001025980333360-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57095804-el-guerrero-de-la-venganza-blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8436597564007"
     },
     {
       "title": "Kryptic (Blu-Ray)",
@@ -93,12 +93,12 @@
       "ean": "8421394002760"
     },
     {
-      "title": "Los diez mandamientos (Edición Metálica) (4K Ultra HD + Blu-Ray)",
+      "title": "Eduardo Manostijeras (Edición Metálica 35 Aniversario) (4K Ultra HD + Blu-Ray)",
       "price": 32.99,
       "priceText": "32,99 €",
-      "image": "https://dam.elcorteingles.es/producto/www-001025981207530-00.jpg?impolicy=Resize&width=640&height=640",
-      "url": "https://www.elcorteingles.es/cine/A57035653-los-diez-mandamientos-edicion-metalica-4k-ultra-hd--blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
-      "ean": "8421394102286"
+      "image": "https://dam.elcorteingles.es/producto/www-001025980612409-00.jpg?impolicy=Resize&width=640&height=640",
+      "url": "https://www.elcorteingles.es/cine/A57035617-eduardo-manostijeras-edicion-metalica-35-aniversario-4k-ultra-hd--blu-ray/?parentCategoryId=999.54215013&color=Sin+especificar",
+      "ean": "8421394803558"
     }
   ]
 }
